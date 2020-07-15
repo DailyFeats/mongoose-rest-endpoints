@@ -21,7 +21,7 @@
     "dot-component": "~0.1.0",
     "express": "~4.15.2",
     "hooks": "~0.3.2",
-    "minimatch": "~1.0.0",
+    "minimatch": "~3.0.4",
     "moment": "~2.6.0",
     "mongoose": "~5.6.9",
     "q": "~1.5.0",
